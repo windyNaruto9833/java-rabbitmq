@@ -1,0 +1,9 @@
+spring:
+  rabbitmq:
+    host: ip
+    port: 5672
+    username: windy
+    password: 123456
+    virtual-host: /
+server:
+  port: 8090
